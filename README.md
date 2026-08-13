@@ -4,8 +4,6 @@
 
  📍 Stockholm, Sweden
 
- 🎓 MLOps Engineering @ Nackademin
-
  🔎 Looking for LIA 2027
 
 ---
